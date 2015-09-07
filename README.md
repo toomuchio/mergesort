@@ -1,5 +1,5 @@
-# sortmerge
-Fairly impressive university assignment implementing a sortmerge join algorithm in C.
+# mergesort
+Fairly impressive university assignment implementing a mergesort join algorithm in C.
  
 Out of all the assignments I did this one was by far the most challenging and enjoyable.
  
